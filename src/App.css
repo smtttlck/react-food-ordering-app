@@ -1,0 +1,19 @@
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #F6F4EB;
+  color: #000;
+  display: flex;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 75%;
+  text-align: center;
+  padding-right: 40px;
+}
+
+p { margin: 0; }

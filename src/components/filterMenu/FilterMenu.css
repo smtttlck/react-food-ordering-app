@@ -1,0 +1,38 @@
+.filter-menu {
+    display: flex;
+    justify-content: center;
+    user-select: none;
+}
+
+.filter-card {
+    width: 100px;
+    height: 100px;
+    margin: 0.5rem 1rem;
+    background-color: #91C8E4;
+    outline: 2px #91C8E4 solid;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 7px;
+    font-size: 18px;
+}
+.filter-card * { pointer-events: none; }
+
+.icon {
+    background-color: #4682A9;
+    width: 50%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+    border-radius: 50%;
+    pointer-events: none;
+}
+
+@media(max-width:900px) {
+    .filter-menu { flex-wrap: wrap; }    
+}

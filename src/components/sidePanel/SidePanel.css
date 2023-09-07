@@ -1,0 +1,81 @@
+.collapse-link {
+    height: 50px;
+    background-color: #4682A9;
+    color: #fff !important;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 1;
+    opacity: 0.5;
+}
+.collapse-link .collapse-icon { 
+    font-size: 30px; 
+    margin-top: 10px; 
+    transform: rotate(90deg);
+}
+.collapse-link:hover { opacity: 1; }
+
+.panel-container {
+    max-height: 500px;
+    background-color: #F6F4EB;
+    transition-duration: 0.4s;
+    padding-bottom: 60px;
+    user-select: none;
+}
+
+.collapse-link, .panel-container {
+    width: 300px;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    outline: 2px #4682A9 solid;
+    border-radius: 10px;
+    margin-right: 0.5rem;
+}
+
+.orders {
+    max-height: 250px;
+    overflow-y: auto;
+}
+
+.order {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+}
+.order .order-image, .order .order-image img {
+    width: 80px;
+    height: 70px;
+}
+.order .order-info { width: 25%; }
+.order .order-name {    
+    width: 40%;
+    overflow: hidden;
+}
+.order .order-counter {
+    display: flex;
+    justify-content: space-between;
+}
+.order .mini-btn {
+    border: 1px #91C8E4 solid;
+    width: 15px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #91C8E4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.order .delete { cursor: pointer; }
+
+.complete-button {
+    background-color: #91C8E4;
+    color: #fff;
+    margin-top: 10px;
+}
+.complete-button:hover { 
+    background-color: #4682A9;
+    border: 1px #fff solid;
+}

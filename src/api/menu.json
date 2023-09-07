@@ -1,0 +1,76 @@
+{
+    "menu": [
+        {
+            "id": 0,
+            "name": "Hamburger",
+            "category": "fast-food",
+            "detail": "A hamburger is a sandwich consisting of a cooked meat patty on a bun or roll. Hamburgers are traditionally made with ground beef and served with onions, tomatoes, lettuce, ketchup, and other garnishes.",
+            "salary": 20,
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/NCI_Visuals_Food_Hamburger.jpg/800px-NCI_Visuals_Food_Hamburger.jpg"
+        },
+        {
+            "id": 1,
+            "name": "Salmon",
+            "category": "fish",
+            "detail": "Salmon is the orangey-pink flesh of a large silver-colored fish which is eaten as food. It is often smoked and eaten raw. The fish course is smoked salmon served on salad.",
+            "salary": 25,
+            "imageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2F2023-04-baked-salmon-how-to%2Fbaked-salmon-4769-Edit"
+        },
+        {
+            "id": 2,
+            "name": "Fried Chicken",
+            "category": "chicken",
+            "detail": "Fried chicken, also known as Southern fried chicken, is a dish consisting of chicken pieces that have been coated with seasoned flour or batter and pan-fried, deep fried, pressure fried, or air fried.",
+            "salary": 22,
+            "imageUrl": "https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Crispy-Fried-Chicken_EXPS_TOHJJ22_6445_DR%20_02_03_11b.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Coke",
+            "category": "drink",
+            "detail": "Coca-Cola, or Coke, is a carbonated soft drink manufactured by the Coca-Cola Company.",
+            "salary": 2,
+            "imageUrl": "https://cdn.shoplightspeed.com/shops/617742/files/51836822/coca-cola-can-of-soda-coke-12-oz-can.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Chocolate Icecream",
+            "category": "icecream",
+            "detail": "It is smooth and creamy with an unparalleled chocolate flavor. It is the perfect balance of bittersweet and sweet. Each bite will surprise you with its chocolatiness and you will find yourself involuntarily reaching for another scoop.",
+            "salary": 4,
+            "imageUrl": "https://www.thespruceeats.com/thmb/T_Mru3-k0Zl9fqDaprCn2bjhek4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/easy-chocolate-ice-cream-recipe-1945798-hero-01-45d9f26a0aaf4c1dba38d7e0a2ab51e2.jpg"
+        },
+        {
+            "id": 5,
+            "name": "French Fries",
+            "category": "fast-food",
+            "detail": "French fries are served hot, either soft or crispy, and are generally eaten as part of lunch or dinner or by themselves as a snack, and they commonly appear on the menus of diners, fast food restaurants, pubs, and bars.",
+            "salary": 4,
+            "imageUrl": "https://www.recipetineats.com/wp-content/uploads/2022/09/Fries-with-rosemary-salt_1.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Tuna Steak",
+            "category": "fish",
+            "detail": "Pale pink and mild in flavor, Yellowfin Tuna are probably the most versatile Tuna food choice. You can find these fish in cans, as well as in the form of steak and sushi. In the US, Yellowfin is a popular sushi option for a couple of reasons.",
+            "salary": 30,
+            "imageUrl": "https://fishingbooker.com/blog/media/tuna-steak-1024x683.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Lemon-Blueberry Icecream",
+            "category": "icecream",
+            "detail": "It is smooth and creamy with an unparalleled chocolate flavor. It is the perfect balance of bittersweet and sweet. Each bite will surprise you with its chocolatiness and you will find yourself involuntarily reaching for another scoop.",
+            "salary": 7,
+            "imageUrl": "https://www.flourarrangements.org/wp-content/uploads/2020/06/Lemon-Blueberry-Swirl-Ice-Cream-1.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Lemonade",
+            "category": "drink",
+            "detail": "Bursting with bright lemon flavor, this easy homemade lemonade recipe is simple and refreshing, with the perfect balance of sweet and tart.",
+            "salary": 3,
+            "imageUrl": "https://www.acouplecooks.com/wp-content/uploads/2022/04/Ginger-Lemonade-005.jpg"
+        }
+    ]
+}
